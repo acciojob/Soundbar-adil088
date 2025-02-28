@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+*{
+	background: #A164DF;
+}
+body{
+	display:flex;
+	justify-content:center;
+	margin-top: 100px;
+}
+
+.btn{
+	height: 65px;
+	width: 150px;
+	background-color: #663399;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	margin: 10px;
+}
+.stop{
+	height: 65px;
+	width: 150px;
+	background-color: #663399;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	margin: 10px;
+}
